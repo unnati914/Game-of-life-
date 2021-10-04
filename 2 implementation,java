@@ -1,6 +1,6 @@
 package com.chargepoint.assignment;
 
-public class Gameoflife {
+public class Gameoflife1 {
     public static class Solution1 {
         /**
          * Time: O(m*n)
